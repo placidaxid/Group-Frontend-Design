@@ -1,0 +1,152 @@
+body{
+	background-color:#c1f0f0;
+}
+
+
+/* HERE IS THE CSS*/
+div.desc1 {
+  padding: 57px;
+  color: white;
+  font-weight: bold;
+  text-align: justify;
+  font-size: 2px;
+  background-color:#ff4dd2;
+  border-radius: 30px;
+}
+
+.container{
+  text-align: justify;
+}
+.container p{
+  text-align: justify;
+}
+.pla{
+  text-align: justify;
+  padding-left: 15px;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px;
+  border-radius: 30px;
+  background-color: white;
+  
+}
+
+div.gallery img {
+  width: 10%;
+  height: auto;
+  border-radius: 50%;
+
+}
+
+
+/*STOPPED HERE*/
+
+.rightimage{
+float: right;
+padding-top: 20px;
+width: 10px;
+height: 30px;
+}
+div.gal {
+  margin: 0px;
+  width:150px;
+  height: 80px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0px;
+  font-size: 10px;
+
+}
+
+
+div.gall {
+  margin: 0px;
+  width:150px;
+  height: 80px;
+  border-radius: 20px;
+  background-color: red;
+  text-align: center;
+  padding: 0px;
+  font-size: 20px;
+
+}
+
+div.gall2{
+  margin: 1px;
+  width:150px;
+  height: 10px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+  float: right;
+
+}
+div.gall1 {
+  margin: 5px;
+  width:190px;
+  height: 60px;
+  float: left;
+  border-radius: 20px;
+  background-color: #ff80ff;
+  text-align: center;
+  padding: 10px;
+
+}
+
+
+div.galleri {
+  margin: 5px;
+  border: 1px;
+  border-radius: 30px;
+  float: left;
+  
+
+}
+div.des {
+  padding: 120px;
+  text-align: center;
+  text-decoration: bolder;
+  font-weight: bolder;
+}
+
+div.desc {
+  padding: 95px;
+  text-align: center;
+  text-decoration: bolder;
+  font-weight: bolder;
+}
+
+
+
+/* LAST SECTION*/
+span.end {
+  margin: 0px;
+  width:150px;
+  height: 30px;
+  border-radius: 20px;
+  padding: 0%;
+  font-size: 20px;
+  position: relative;
+}
+.end{
+    background-image: var(--background);
+    border-radius: 15px;
+    cursor: pointer;
+    color: #fff;
+    width: 15%;
+    padding:15px 15px;
+}
+span.footer-logo{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 90px;
+}
+.footer{
+  width: 100%;
+}
+.buttom{
+  position: relative;
+}
